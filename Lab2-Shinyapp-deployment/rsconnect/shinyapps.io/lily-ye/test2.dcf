@@ -1,0 +1,12 @@
+name: test2
+title:
+username:
+account: lily-ye
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2162910
+bundleId: 3062507
+url: https://lily-ye.shinyapps.io/test2/
+when: 1587788052.72254
+asMultiple: FALSE
+asStatic: FALSE
